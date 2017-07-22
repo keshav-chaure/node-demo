@@ -11,7 +11,7 @@ http.createServer(function (req, res) {
     //res.write("The date and time are currently: " + dt.myDateTime());
     //res.write(req.url);
     //res.end('Hello World!');
-/*
+/* some
 //http://localhost:8080/?year=2017&month=July
      var q = url.parse(req.url, true).query;
       var txt = q.year + " " + q.month;
